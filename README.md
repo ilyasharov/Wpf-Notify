@@ -1,0 +1,8 @@
+##Create DB
+
+CREATE TABLE [DataTable] ( 
+	[ID] INTEGER NOT NULL IDENTITY(1, 1), 
+	[flag] VARCHAR(255) NULL, 
+	[data] VARCHAR(255) NULL, 
+	PRIMARY KEY ([ID]) ); 
+GO

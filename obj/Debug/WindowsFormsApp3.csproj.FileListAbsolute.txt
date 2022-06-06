@@ -1,0 +1,16 @@
+C:\Users\pass-\Desktop\8559469\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\pass-\Desktop\8559469\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\pass-\Desktop\8559469\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\pass-\Desktop\8559469\WindowsFormsApp3\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\pass-\Desktop\8559469\WindowsFormsApp3\bin\Debug\System.Data.SqlClient.dll
+C:\Users\pass-\Desktop\8559469\WindowsFormsApp3\bin\Debug\TableDependency.SqlClient.dll
+C:\Users\pass-\Desktop\8559469\WindowsFormsApp3\bin\Debug\System.Data.SqlClient.xml
+C:\Users\pass-\Desktop\8559469\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\pass-\Desktop\8559469\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\pass-\Desktop\8559469\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\pass-\Desktop\8559469\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\pass-\Desktop\8559469\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\pass-\Desktop\8559469\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\pass-\Desktop\8559469\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+C:\Users\pass-\Desktop\8559469\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\pass-\Desktop\8559469\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
